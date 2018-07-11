@@ -21,6 +21,7 @@ puts student_celebrities
 student_celebrities.each do |student_name, celeb|
   puts "name: #{student_name}"
   puts "celebrity: #{celeb}"
+  puts "potato: #{potato}"
 end
   
   
