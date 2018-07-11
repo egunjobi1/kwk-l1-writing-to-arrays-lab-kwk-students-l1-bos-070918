@@ -17,3 +17,5 @@ student_names.each do |x|
 end
 
 puts student_celebrities
+
+student_celebrities.each do |name, celeb|
