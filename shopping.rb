@@ -4,8 +4,8 @@ price = ["15.98", "35", "0.8", "15"]
 
 iterate = 0
 
-student_names.each do |x|
-  student_celebrities[x] = celebrities[iterate]
+shopping_array.each do |x|
+  shopping_array[x] = price[iterate]
   iterate += 1 
 end
 
