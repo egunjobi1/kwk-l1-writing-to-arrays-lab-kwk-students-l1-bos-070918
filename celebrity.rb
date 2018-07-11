@@ -9,7 +9,7 @@ student_names = ["Natalie", "Cece", "Pelumi", "Sidney", "Hope", "Christina","Ell
 
 celebrities = ["Gigi Hadid", "Kendall Jenner", "Sam Smith", "Charlie Puth", "Romme Strigid", "Billie Eilish", "Rihanna"]
 
-iterate = 1
+iterate = 0
 
 student_names.each do |x|
   student_celebrities[x] = celebrities[iterate]
