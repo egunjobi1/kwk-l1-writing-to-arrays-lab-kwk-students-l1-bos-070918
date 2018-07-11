@@ -9,4 +9,4 @@ shopping_array.each do |x|
   iterate += 1 
 end
 
-puts student_celebrities
+puts shopping_array
